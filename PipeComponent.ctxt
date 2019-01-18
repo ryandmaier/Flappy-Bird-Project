@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=f\ bird
+comment0.target=PipeComponent(javax.swing.JFrame,\ Bird)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ refreshBirdScore()
+comment3.params=x\ y
+comment3.target=boolean\ checkBirdCollision(int,\ int)
+comment4.params=
+comment4.target=void\ resetPipes()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=imageIcon\ width\ height
+comment6.target=javax.swing.ImageIcon\ resize(javax.swing.ImageIcon,\ int,\ int)
+numComments=7
